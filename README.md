@@ -1,2 +1,6 @@
 # Testi-bug-1-yang-aslj
-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
+{
+  "tokens": [
+  "8003679883:AAH_l4JClVZLkei_2gubYEXucKyvtxXYqQM"
+  ]
+}
